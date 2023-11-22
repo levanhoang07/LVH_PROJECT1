@@ -85,13 +85,7 @@ aside p{
   flex-direction: row;
   width:100%;
 }
-/* Trong file trangchu.css hoặc một file CSS khác */
 
-/* Style cho nút mua ngay */
-.muangay-btn {
-  text-decoration: none;
-  color:red;
-}
 
 
 
